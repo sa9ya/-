@@ -1,0 +1,19 @@
+/*@font-face {
+    font-family: 'AmazingGroteskUltra';
+    src: url('../fonts/AmazingGrotesk-Ultra.eot');
+    src: url('../fonts/AmazingGrotesk-Ultra.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/AmazingGrotesk-Ultra.woff') format('woff'),
+         url('../fonts/AmazingGrotesk-Ultra.ttf') format('truetype'),
+         url('../fonts/AmazingGrotesk-Ultra.svg#PT Sans Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+@font-face {
+   font-family: 'AGroteskU';
+   src: url('../fonts/amazing-grotesk.ultra.otf');
+}
+@font-face {
+   font-family: 'AGroteskD';
+   src: url('../fonts/amazing-grotesk.demibold.otf');
+}
+
